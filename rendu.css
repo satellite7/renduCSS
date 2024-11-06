@@ -11,8 +11,14 @@ body {
     padding-right: 1em;
     justify-content: space-between;
     align-items: center;
+    
 }
 
+h1-h2 { display: flex;
+    font-family: "Unlock", serif;
+    color: chocolate;
+    
+}
 
 #nn {
     display: flex;
