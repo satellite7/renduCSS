@@ -1,0 +1,60 @@
+.ss {
+background-color: aquamarine;
+display: flex;
+}
+
+
+.jzz {
+   background-color: chocolate;
+
+
+}
+
+/* Style général du body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style de la barre de navigation */
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style des éléments de la liste */
+.navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* Style des liens dans la barre de navigation */
+.navbar-list li {
+    margin: 0 15px;
+}
+
+.navbar-list a {
+    text-decoration: none;
+    color: white;
+    padding: 14px 20px;
+    display: block;
+    text-align: center;
+}
+
+/* Effet au survol des liens */
+.navbar-list a:hover {
+    background-color: #575757;
+}
+
+
+
+
+
+
+
+
+
